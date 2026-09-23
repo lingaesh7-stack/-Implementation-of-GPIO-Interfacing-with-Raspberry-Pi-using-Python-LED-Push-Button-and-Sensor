@@ -135,10 +135,9 @@ while True:
     led.toggle()
     sleep(0.5)
 ```
-# Observation
+# Output
 
-<img width="1600" height="1140" alt="image" src="https://github.com/user-attachments/assets/ef4639ad-7382-4366-b7c3-c3a2b1146d00" />
-
+![Output](exp9.jpeg)
 
 
 
