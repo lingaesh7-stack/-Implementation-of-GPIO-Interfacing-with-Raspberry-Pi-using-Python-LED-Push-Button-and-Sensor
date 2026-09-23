@@ -137,7 +137,7 @@ while True:
 ```
 # Observation
 
-<img width="1906" height="871" alt="image" src="https://github.com/user-attachments/assets/c3edfe91-d9df-425b-b539-1b2d3959c5ac" />
+<img width="1600" height="1140" alt="image" src="https://github.com/user-attachments/assets/ef4639ad-7382-4366-b7c3-c3a2b1146d00" />
 
 
 
